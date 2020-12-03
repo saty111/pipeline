@@ -18,6 +18,7 @@ namespace WebApplication1
         {
             //change for github testing
             //jenkins CI testing
+            //test
             Configuration = configuration;
         }
 
