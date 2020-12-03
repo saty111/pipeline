@@ -17,6 +17,7 @@ namespace WebApplication1
         public Startup(IConfiguration configuration)
         {
             //change for github testing
+            //jenkins CI testing
             Configuration = configuration;
         }
 
